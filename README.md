@@ -13,3 +13,13 @@ This guide aims to:
 The content here isn't meant to replace the official bootcamp material, but rather to complement it and make your learning journey smoother.
 
 > 💡 **Note**: This is a work in progress, and contributions are welcome! If you're also taking the bootcamp and want to add your insights or resources, feel free to submit a PR.
+
+## Chapter 1: Blockchain Basics
+
+This chapter covers fundamental blockchain concepts.
+A deep understanding of Solana's core concepts and architecture is highly recommended before starting development, which is why I've included these additional Solana-specific resources below.
+
+### 📚 Additional Learning Resources
+
+- [Official Solana Documentation](https://solana.com/docs)
+- [Solana Cookbook](https://solanacookbook.com/)
